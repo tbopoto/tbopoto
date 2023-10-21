@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tbopoto
-- 👀 I’m interested in systems design and analysis
-- 🌱 I’m currently learning javascript
+- 👀 Systems design and analysis
 - 📫 tbopoto16@gmail.com is my email address. Alternatively, my instagram handle is in my bio
 
 <!---
