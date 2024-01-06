@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tbopoto
-- 👀 Systems design and analysis
+- 👀 Systems and data analysis
 - 📫 tbopoto16@gmail.com
 
 <!---
